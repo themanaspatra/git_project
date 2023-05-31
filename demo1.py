@@ -3,3 +3,6 @@ print("hello")
 
 def spam():
     pass
+
+def demo():
+    pass
