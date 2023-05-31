@@ -3,3 +3,7 @@ print("hello")
 
 def spam():
     pass
+
+
+def greet():
+    pass
