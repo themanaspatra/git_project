@@ -4,10 +4,10 @@ print("hello")
 def spam():
     pass
 
-<<<<<<< HEAD
+# <<<<<<< HEAD
 def demo():
-=======
-
+# =======
+    ...
 def greet():
->>>>>>> feature
+# >>>>>>> feature
     pass
